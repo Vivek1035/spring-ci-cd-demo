@@ -12,6 +12,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String home() {
-        return "hello java";
+        return "Hello Java from Vivek";
     }
 }
